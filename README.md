@@ -3,5 +3,7 @@
 --> Here I have used 'formidable' module for uploading files and 'express' server
 # Installation :
 		npm install express formidable nodemon 
-# Run the code :
+# Running the code :
 		npm start
+--> open in browser
+# http://localhost:5000
